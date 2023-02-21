@@ -1,12 +1,13 @@
+## 📊 Stats
+[![신재우's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeus6768&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <br>
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akaps6768) <br>
+
+
 ## 📖 Projects
 - [**Dream Calendar**](https://github.com/kau-dreamtree/server-dream-calendar)   
 iOS 달력 애플리케이션 개발 프로젝트 서버사이드  
 개발중  
 `Java` `Spring Boot` 
-
-## 📊 Stats
-[![신재우's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeus6768&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <br>
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akaps6768) <br>
 
 
 ## ⭐ Skills
