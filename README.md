@@ -3,12 +3,6 @@
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akaps6768) <br>
 
 
-## 📖 Projects
-- [**Dream Calendar**](https://github.com/kau-dreamtree/server-dream-calendar)   
-iOS 달력 애플리케이션 개발 프로젝트 서버사이드  
-개발중  
-`Java` `Spring Boot` 
-
 
 ## ⭐ Skills
 
