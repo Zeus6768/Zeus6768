@@ -1,12 +1,8 @@
-Hello, World! 👋
+👋 Hello, World!
 
-Now intersted in...
+❤️ Now intersted in...
 - Spring Framework
 - Clean Code
-
-## 📊 Stats
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akaps6768) <br>
-
 
 ## ⭐ Skills
 
